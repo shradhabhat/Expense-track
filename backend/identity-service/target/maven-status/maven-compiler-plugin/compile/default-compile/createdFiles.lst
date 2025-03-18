@@ -1,0 +1,13 @@
+com\practice\service\IdentityAuthService.class
+com\practice\IdentityServiceApplication.class
+com\practice\exception\ResourceAlreadyExistsException.class
+com\practice\controller\IdentityAuthController.class
+com\practice\config\CustomUserDetailsService.class
+com\practice\config\IdentityServiceAuthConfig.class
+com\practice\dto\AuthRequest.class
+com\practice\dto\ResponseDto.class
+com\practice\exception\ResourceNotFoundException.class
+com\practice\config\CustomUserDetails.class
+com\practice\repository\UserCredentialRepository.class
+com\practice\service\JwtService.class
+com\practice\entity\UserCredential.class
