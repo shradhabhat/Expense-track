@@ -31,9 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-# Maven target directory (compiled classes, jar files, etc.)
-/target/
-
 # IDE-specific files (for IntelliJ IDEA)
 *.iml
 .idea/
