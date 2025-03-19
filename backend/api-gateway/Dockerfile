@@ -12,4 +12,6 @@ COPY ${JAR_FILE} app.jar
 server.port=${PORT:8080}
 
 # Run the application
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENTRYPOINT ["java", "-Dserver.port=${PORT}", "-jar", "app.jar"]
+
+#ENTRYPOINT ["java", "-jar", "app.jar"]
