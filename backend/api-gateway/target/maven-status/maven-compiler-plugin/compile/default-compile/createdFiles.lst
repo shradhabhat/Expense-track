@@ -1,11 +1,11 @@
-com\gateway\api_gateway2\entity\User.class
 com\gateway\api_gateway2\util\JwtUtil.class
 com\gateway\api_gateway2\config\CorsConfig.class
 com\gateway\api_gateway2\ApiGateway2Application.class
-com\gateway\api_gateway2\config\AppConfig.class
-com\gateway\api_gateway2\entity\UserCredential.class
 com\gateway\api_gateway2\service\UserService.class
 com\gateway\api_gateway2\filter\AuthenticationFilter.class
-com\gateway\api_gateway2\filter\RouteValidator.class
 com\gateway\api_gateway2\config\ApiGateWayConfiguration.class
+com\gateway\api_gateway2\entity\User.class
+com\gateway\api_gateway2\config\AppConfig.class
+com\gateway\api_gateway2\entity\UserCredential.class
+com\gateway\api_gateway2\filter\RouteValidator.class
 com\gateway\api_gateway2\repository\UserRepository.class
