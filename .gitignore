@@ -1,3 +1,4 @@
 # Ignore any system files in the root (if needed)
 .DS_Store
 Thumbs.db
+/.metadata/
